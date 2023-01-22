@@ -13,6 +13,8 @@ using namespace std;
 //Ask the user which month they want to put the records. Open the file name the month. 
 
 // Create a struct contains the main categories that will be recorded.
+
+//I create a branches to make changes on Jan 22, 2023
 struct Info
 {
     int shopping, groceries, renting, dinning, gas; 
